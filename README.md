@@ -1,11 +1,10 @@
 Awesome Public Datasets
 =======================
+[![wiredwith.com](https://www.wiredwith.com/images/wiredwith_logo.svg)](https://wiredwith.com)
 
-:image:: https://www.wiredwith.com/images/wiredwith_logo.svg
-:alt: Awesome Public Dataset
-:target: https://github.com/wiredwith/datasets
+## e-Commerce
 
-.. contents:: **Table of Contents**
+* [Global List of websites built with Magento](https://github.com/wiredwith/datasets/blob/master/e-commerce/www_websites_built_with_magento.csv)
 
     
-e-Commerce
+
