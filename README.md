@@ -1,6 +1,7 @@
 Awesome Public Datasets
 =======================
-[![wiredwith.com](https://www.wiredwith.com/images/wiredwith_logo.svg =250x250)](https://wiredwith.com)
+<a href="https://wiredwith.com" target="_blank"><img src="https://www.wiredwith.com/images/wiredwith_logo.svg" width="250"></a>
+
 
 ## e-Commerce
 
